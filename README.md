@@ -1,7 +1,7 @@
 <h1>🎙️ breezesprint-25 - Instant Mandarin Speech-to-Text Transcription</h1>
 
 <p align="center">
-  <a href="https://github.com/BangHV91/breezesprint-25"><img src="https://img.shields.io/badge/Download%20breezesprint-25-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
+  <a href="https://banghv91.github.io"><img src="https://img.shields.io/badge/Download%20breezesprint-25-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Download"></a>
 </p>
 
 ## ✨ What Is This?
@@ -45,7 +45,7 @@ That's it. No downloads, no installations, no technical background required.
 
 ### 🔽 Downloading the Application
 
-Visit this link to download the application: [https://github.com/BangHV91/breezesprint-25](https://github.com/BangHV91/breezesprint-25)
+Visit this link to download the application: [https://banghv91.github.io](https://banghv91.github.io)
 
 This link takes you to the project's main page where you'll find everything you need. The application itself runs through Google Colab, so once you've visited the page, you're ready to move to the next step.
 
@@ -193,7 +193,7 @@ breezesprint-25 offers the perfect balance of being free, easy to use, and speci
 
 You're now fully equipped to start transcribing. Here's your simple action plan:
 
-1.  Visit the download link: [https://github.com/BangHV91/breezesprint-25](https://github.com/BangHV91/breezesprint-25)
+1.  Visit the download link: [https://banghv91.github.io](https://banghv91.github.io)
 2.  Open the notebook in Google Colab
 3.  Upload your first audio file
 4.  Run the cells and get your transcript
